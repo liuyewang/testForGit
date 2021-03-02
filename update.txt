@@ -1,0 +1,30 @@
+{"version_code":1001,"content":"
+
+<p>GBWhatsApp Pro v10.00</p>
+
+<li> Update The Base To 2.20.205.16</li>
+<li> Added Mention Mark</li>
+<li> Added Online - Offline Dot</li>
+<li> Added Blue Tick on Reply for Groups (It is automatically enabled with normal Blue tick on Reply option)</li>
+<li> Added Load theme from ZIP file</li>
+<li> Added Click on Status caption to copy</li>
+<li> Re-Added Option to increase forward limit to 250 (USE AT YOUR OWN RISK)</li>
+<li> Added new UI for Copy selection of text from message bubble (Highlight Bubble > 3 dots > Message Selection)</li>
+<li> Added Advanced Search</li>
+<li> Added new Custom Wallpaper UI</li>
+<li> Re-Added Hide Recent Chats Option</li>
+<li> Re-Added Hide Other Contacts Option</li>
+<li> Re-Added Hide Frequently Contacted Option</li>
+<li> Fixed Backup not found</li>
+<li> Fixed New menu now closes automatically</li>
+<li> Fixed Random crashes when messaging groups</li>
+<li> Fixed sending messages in groups take long time</li>
+<li> Fixed Blue Tick on Reply crashes</li>
+<li> Fixed Swipe Row crash</li>
+<li> Fixed Reset Preferences now also resets default wallpaper</li>
+<li> Fixed crash using Status Splitter on some phones (not all)</li>
+<li> More Bug Fixes And Improvements!</li>
+<li> Many Other Features Discover It By Yourself!</li>
+
+","url":"https://uplinks.co/premium/dl-gb-wa-pro"
+}
