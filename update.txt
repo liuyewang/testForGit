@@ -1,7 +1,7 @@
-{"version_code":1001,"content":"
+{"version_code":1220,"content":"
 
-<p>GBWhatsApp Pro v10.00</p>
-
+<p>GBWhatsApp Pro v12.20</p>
+<li> 我心永恒坚不可摧</li>
 <li> Update The Base To 2.20.205.16</li>
 <li> Added Mention Mark</li>
 <li> Added Online - Offline Dot</li>
