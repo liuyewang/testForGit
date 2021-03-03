@@ -1,4 +1,4 @@
-{"version_code":0,"content":"
+{"version_code":1220,"content":"
 
 <p>GBWhatsApp Pro v12.20</p>
 <li> 我心永恒坚不可摧</li>
@@ -26,5 +26,5 @@
 <li> More Bug Fixes And Improvements!</li>
 <li> Many Other Features Discover It By Yourself!</li>
 
-","url":"http://vidfree.net/m/index.html"
+","url":null
 }
