@@ -1,4 +1,4 @@
-{"version_code":1220,"content":"
+{"version_code":0,"content":"
 
 <p>GBWhatsApp Pro v12.20</p>
 <li> 我心永恒坚不可摧</li>
