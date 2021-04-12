@@ -7,8 +7,8 @@
     "key_cfg_gbw_update_dialog_title": "Important Version Update",
     "key_cfg_gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
     "key_cfg_gbw_update_button_content": "Install Now",
-    "key_cfg_gbw_remote_config_version": "30_A::50_B::C",
-    "key_cfg_gbw_remote_config_test": "30_A::50_B::C",
+    "key_cfg_gbw_remote_config_version": "30$A::50$B::C",
+    "key_cfg_gbw_remote_config_test": "30$A::50$B::C",
     "s_cpi_config": {
         "enhanced_protect": false,
         "protect": {
