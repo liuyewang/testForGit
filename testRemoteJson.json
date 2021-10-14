@@ -1,0 +1,31 @@
+{
+    "gbw_force_update_new_version": "2056240011",
+    "gbw_update_new_version": "2056240011",
+    "gbw_remote_url": "https://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
+    "gbw_update_web_url": "https://www.gbwhatsapp.download/m/index.html",
+    "gbw_apk_name": "GBWhatsApp.apk",
+    "gbw_update_dialog_title": "Important Version Update",
+    "gbw_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
+    "gbw_update_button_content": "Install Now",
+    "gbw_remote_config_version": "30$A::50$B::C",
+    "gbw_remote_config_test": "30$A::50$B::C",
+    "s_cpi_config": {
+        "enhanced_protect": false,
+        "protect": {
+            "download": true,
+            "install": true,
+            "host": "https://cpi.gbwhatsapp.download/client/ci",
+            "batch_host": "https://cpi.gbwhatsapp.download/client/ci?v=2",
+            "enable_batch": true
+        },
+        "mode": 3,
+        "upload_progress_max": 30,
+        "upload_interval": 300000,
+        "upload_interval_5": 30000,
+        "upload_interval_7": 0,
+        "upload_interval_9": 0,
+        "upload_interval_13": 0,
+        "no_active_report": 1,
+        "need_check": false
+    }
+}
