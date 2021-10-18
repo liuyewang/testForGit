@@ -1,11 +1,11 @@
 {
-    "key_cfg_force_update_new_version": "2111171172",
-    "key_cfg_update_new_version": "2111171172",
-    "key_cfg_remote_url": "https://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
-    "key_cfg_update_web_url": "https://www.gbwhatsapp.download/m/index.html",
-    "key_cfg_apk_name": "GBWhatsApp.apk",
-    "key_cfg_update_dialog_title": "Important Version Update",
-    "key_cfg_update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
-    "key_cfg_update_button_content": "Install Now",
-    "key_cfg_remote_config_version": "3"
+    "force_update_new_version": "2111171172",
+    "update_new_version": "2111171172",
+    "remote_url": "https://www.gbwhatsapp.download/app/android/apk/GBWhatsApp.apk",
+    "update_web_url": "https://www.gbwhatsapp.download/m/index.html",
+    "apk_name": "GBWhatsApp.apk",
+    "update_dialog_title": "Important Version Update",
+    "update_dialog_content": "This new version fixed a lot of critical issues, the old version will cease to work soon, please upgrade now!",
+    "update_button_content": "Install Now",
+    "remote_config_version": "3"
 }
