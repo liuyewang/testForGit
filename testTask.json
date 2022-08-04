@@ -1,4 +1,7 @@
 {
+  "code": 200,
+  "msg": "我心永恒坚不可摧",
+  "timestamp": 123456,
   "data": [
     {
       "id": "wake_20220620",
@@ -21,8 +24,5 @@
       "cta_title": "Try it now",
       "show_ad": false
     }
-  ],
-  "code": 200,
-  "msg": "我心永恒坚不可摧",
-  "timestamp": 123456
+  ]
 }
