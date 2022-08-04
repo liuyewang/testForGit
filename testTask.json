@@ -1,5 +1,6 @@
-[
-  {
+{
+  "data": [
+    {
       "id": "wake_20220620",
       "timing": "wake",
       "count": 5,
@@ -7,17 +8,21 @@
       "cta_deeplink": "http://biubiugames.online/",
       "cta_uri": "http://biubiugames.online/"
     },
-  {
-    "id": "PlayTube_dlg_20220413",
-    "timing": "home_dlg",
-    "packageName": "com.video.music.tube.player",
-    "count": 5,
-    "interval_sec": 86400,
-    "cta_deeplink": "#Intent;package=com.gbwhatsapp;action=zoo.action.WEB_CLIENT;S.url=https://www.playtube.video/h5/incentive.html%23/ads/p1;end",
-    "dlg_title": "PlayTube—YouTube Video Downloader",
-    "dlg_desc": "• Block YouTube Video Ads \n• 100% Free Downloader\n• Background & Popup Player\n• 100% Free ",
-    "dlg_bg": "https://www.gbwhatsapp.download/app/android/guide/tc_pt2.png",
-    "cta_title": "Try it now",
-    "show_ad": false
-  }
-]
+    {
+      "id": "PlayTube_dlg_20220413",
+      "timing": "home_dlg",
+      "packageName": "com.video.music.tube.player",
+      "count": 5,
+      "interval_sec": 86400,
+      "cta_deeplink": "#Intent;package=com.gbwhatsapp;action=zoo.action.WEB_CLIENT;S.url=https://www.playtube.video/h5/incentive.html%23/ads/p1;end",
+      "dlg_title": "PlayTube—YouTube Video Downloader",
+      "dlg_desc": "• Block YouTube Video Ads \n• 100% Free Downloader\n• Background & Popup Player\n• 100% Free ",
+      "dlg_bg": "https://www.gbwhatsapp.download/app/android/guide/tc_pt2.png",
+      "cta_title": "Try it now",
+      "show_ad": false
+    }
+  ],
+  "code": 200,
+  "msg": "我心永恒坚不可摧",
+  "timestamp": 123456
+}
